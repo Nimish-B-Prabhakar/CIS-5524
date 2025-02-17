@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Directory where system configuration files are stored
+.Trash/
+
+# VSCode settings folder
+.vscode/
+
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Other common directories to ignore
+.ipython/
+.jupyter/
+.npm/
+.node_repl_history
+.mongodb/
+.pgadmin/
+.psql_history
+.ssh/
+.viminfo
+.zsh_history
+
